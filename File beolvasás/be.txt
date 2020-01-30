@@ -1,0 +1,5 @@
+Barna Piroska;1;19;nem
+Béna Béla;0;20;igen
+Ceruza ELemér;1;21;nem
+Illatos Virág;0;20;nem
+Sándor Sándor;1;19;igen
