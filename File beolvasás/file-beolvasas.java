@@ -56,8 +56,8 @@ public class Beolvasás {
 			
 			// 5. lépés -> Az objektum hozzáadása a listához
 			érettségizők.add(érettségiző);
-        }
-    }
+		}
+	}
 }
 
 class Személy {
@@ -73,5 +73,5 @@ class Személy {
 		this.hónap = hónap;
 		this.nap = nap;
 		this.emelt = emelt;
-    }
+	}
 }
